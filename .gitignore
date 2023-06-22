@@ -1,0 +1,5 @@
+# Vi swap files
+*.swp
+*.swo
+*.swn
+
